@@ -106,6 +106,3 @@ Fork the repo
 Create a new branch
 Commit changes
 Open a Pull Request
-📄 License
-
-This project is open-source and available under the MIT License.
