@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # CalmConnect UI Design
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# autistic-child-development
+>>>>>>> ba3828a01ae06c8bee5a90d88b5823b6661dba4c
