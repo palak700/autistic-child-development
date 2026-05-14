@@ -1,93 +1,111 @@
-🌿 CalmConnect UI Design
+# 🌿 CalmConnect UI Design
 
-A modern, child-friendly mental wellness and development platform UI built using React + Vite + TypeScript. CalmConnect is designed to support emotional tracking, learning, storytelling, and parent-child engagement in a safe digital environment.
+> A modern, responsive frontend UI for **CalmConnect** — designed to support emotional wellness for children, parents, and educators through interactive tools, dashboards, and learning modules.
 
-🚀 Live Demo
+🔗 Live Demo: https://calmconnect-ui.vercel.app/  
+📁 Repository: https://github.com/palak700/autistic-child-development
 
-👉 https://calmconnect-ui.vercel.app/
+---
 
-✨ Features
-🧠 Emotional Wellness
-Emotion tracking for children
-Calm zone for relaxation and focus
-Interactive mood-based UI
-👨‍👩‍👧 Parent & Child System
-Separate dashboards for parents and children
-Parental control interface
-Safe usage environment for kids
-📚 Learning & Growth
-Phonics learning module
-Story corner for interactive storytelling
-Child development focused UI components
-💬 Community & Engagement
-Parent community section
-Guidance and support UI
-Interactive engagement flows
-🛠️ Tech Stack
-React.js
-Vite
-TypeScript
-Tailwind CSS
-ShadCN UI Components
-Lucide Icons
-📁 Project Structure
+## ✨ Overview
+
+**CalmConnect UI** is a beautifully crafted frontend application focused on mental wellness and child development support.  
+It provides structured dashboards, interactive learning modules, and emotional tracking features in a clean, accessible interface.
+
+---
+
+## 🚀 Features
+
+- 🎯 Child & Parent Dashboards
+- 😊 Emotion Tracking System
+- 📖 Story Corner for learning & engagement
+- 🧠 Phonics Learning Module
+- 🌿 Calm Zone (relaxation & mindfulness UI)
+- 👨‍👩‍👧 Parent Community UI
+- 🔐 Parental Control Interface
+- 📱 Fully Responsive Design (Mobile + Desktop)
+- 🎨 Modern UI built with reusable components
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React (Vite / Next.js depending on setup)
+- 🎨 Tailwind CSS / Custom UI Styling
+- 🧩 Component-Based Architecture
+- 📦 Node.js + npm
+- ⚡ Vercel (Deployment)
+
+---
+
+## 📂 Project Structure
 src/
- ├── app/
- │    ├── components/
- │    │     ├── CalmZone.tsx
- │    │     ├── ChildDashboard.tsx
- │    │     ├── ParentDashboard.tsx
- │    │     ├── EmotionTracker.tsx
- │    │     ├── StoryCorner.tsx
- │    │     └── ...
- │    ├── App.tsx
- │    └── main.tsx
- ├── styles/
- └── assets/
-⚙️ Installation & Setup
+┣ app/
+┃ ┣ components/
+┃ ┃ ┣ CalmZone.tsx
+┃ ┃ ┣ ChildDashboard.tsx
+┃ ┃ ┣ EmotionTracker.tsx
+┃ ┃ ┣ ParentDashboard.tsx
+┃ ┃ ┣ StoryCorner.tsx
+┃ ┃ ┗ ...
+┣ styles/
+┣ main.tsx
+┣ App.tsx
+┗ index.html
 
-Clone the repository:
 
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone Repository
+```bash
 git clone https://github.com/palak700/autistic-child-development.git
-cd autistic-child-development
-
-Install dependencies:
-
+2️⃣ Install Dependencies
 npm install
-
-Run development server:
-
+3️⃣ Run Development Server
 npm run dev
-
-Build for production:
-
+4️⃣ Build for Production
 npm run build
-🌍 Deployment
+🌐 Deployment
 
-This project is deployed using Vercel:
+This project is deployed using Vercel.
 
-👉 https://calmconnect-ui.vercel.app/
+👉 Live Site: https://calmconnect-ui.vercel.app/
 
-Every push to main branch automatically updates the live site.
+Steps to deploy your own version:
+Push code to GitHub
+Open Vercel Dashboard
+Import repository
+Select framework (React / Vite / Next.js)
+Click Deploy 🚀
+Auto-deploy enabled on every push
+📸 Screenshots
 
-🎯 Purpose
+Add screenshots here for better presentation
 
-CalmConnect UI is designed to:
+Example sections:
 
-Improve emotional awareness in children
-Help parents track and guide development
-Provide a safe digital learning environment
-Combine education + emotional wellness in one platform
+Home Page UI
+Child Dashboard
+Emotion Tracker
+Calm Zone Interface
 📌 Future Improvements
 Backend integration (Node.js / Express)
+AI emotion detection system
+Real-time chat support
+Database integration (MongoDB / Firebase)
 Authentication system
-AI-based emotion detection
-Real-time chat between parent and child
-Mobile app version
-🤝 Contributing
+🤝 Contribution
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Contributions are welcome!
 
+If you want to improve this project:
+
+Fork the repo
+Create a new branch
+Commit changes
+Open a Pull Request
 📄 License
 
-This project is for educational and hackathon purposes.
+This project is open-source and available under the MIT License.
