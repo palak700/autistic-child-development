@@ -73,14 +73,8 @@ This project is deployed using Vercel.
 
 👉 Live Site: https://calmconnect-ui.vercel.app/
 
-Steps to deploy your own version:
-Push code to GitHub
-Open Vercel Dashboard
-Import repository
-Select framework (React / Vite / Next.js)
-Click Deploy 🚀
-Auto-deploy enabled on every push
-📸 Screenshots
+
+
 
 Add screenshots here for better presentation
 
